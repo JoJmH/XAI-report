@@ -14,7 +14,7 @@ Adult Income Dataset compared to feature attribution explanations (LIME)?
 xai-lime-dice-adult-income/
 │
 ├── adult.csv                  # Adult Income Dataset (UCI)
-├── xai_notebook.ipynb         # Main notebook with all code
+├── XAI.ipynb                  # Main notebook with all code
 └── README.md                  # This file
 ```
 
@@ -29,7 +29,7 @@ pip install lime dice-ml scikit-learn pandas numpy matplotlib
 2. Install dependencies:
    pip install lime dice-ml scikit-learn pandas numpy matplotlib
 3. Open the notebook:
-   jupyter notebook xai_notebook.ipynb
+   jupyter notebook XAI.ipynb
 4. Run all cells in order from top to bottom
 
 ## Dataset
